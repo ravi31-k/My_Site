@@ -103,9 +103,9 @@ top: 50px;
   bottom:100px;
 }
 .flag{
-  position:absolute;
-  left: 645px;
-  bottom: 390px;
+  position:relative;
+  left: 385px;
+  bottom: 332px;
 }
 .sun{
   position:absolute;
